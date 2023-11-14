@@ -10,4 +10,4 @@ Here's what you'll find:
 - Refinement and Complexification: Gradually, these basic strategies are refined and made more complex. This process illustrates my step-by-step approach in enhancing trading techniques.
 - Innovative Strategies: I then move on to more advanced, innovative, and original strategies. These projects demonstrate my ability to think outside the box and apply unique concepts to the financial domain.
 - Presentation of a Developed Strategy: Finally, I present a high-level, nearly professional strategy, designed to be potentially deployed in a hedge fund (HF) environment. This showcases my level of expertise and ability to develop real-world ready solutions.
-This repository reflects my journey and skills in Python, applied to financial strategies. It is continually updated with new ideas and approaches."
+This repository reflects my journey and skills in Python, applied to financial strategies. It is continually updated with new ideas and approaches.
